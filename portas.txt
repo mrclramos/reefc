@@ -1,0 +1,17 @@
+Lista das portas de entrada/saida necessarias:
+
+Entrada:
+- Sensor temperatura
+- Nivel baixo agua para tratamento
+- Nivel alto agua R.O.
+- Nivel baixo caixa de reposicao
+- Nivel do sump
+- 6 portas para o LCD
+- 2 portas para o RTC
+
+Saida:
+- Aquecedor
+- Chiller
+- Bomba de reposicao
+- Bomba pressurizadora para o R.O.
+- 3 bombas peristalticas
